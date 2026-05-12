@@ -1,4 +1,4 @@
-# Sistema de Seguridad Modular (Centralized Auth Service)
+# Sistema de Seguridad Modular
 
 Este proyecto consiste en una solución de seguridad desacoplada diseñada para ser integrada en múltiples aplicaciones de forma modular. Proporciona un control exhaustivo de identidades, accesos y permisos sin depender de la base de datos principal de la aplicación cliente.
 
